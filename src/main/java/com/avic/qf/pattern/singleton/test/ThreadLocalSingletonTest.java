@@ -2,6 +2,8 @@ package com.avic.qf.pattern.singleton.test;
 
 
 import com.avic.qf.pattern.singleton.threadlocal.ThreadLocalSingleton;
+import org.apache.ibatis.executor.ErrorContext;
+import org.springframework.beans.factory.config.AbstractFactoryBean;
 
 /**
  * Created by LiBo.

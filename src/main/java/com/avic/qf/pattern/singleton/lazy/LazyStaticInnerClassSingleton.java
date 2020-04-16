@@ -5,8 +5,6 @@ package com.avic.qf.pattern.singleton.lazy;
  */
 
 /*
-  ClassPath : LazyStaticInnerClassSingleton.class
-              LazyStaticInnerClassSingleton$LazyHolder.class
    优点：写法优雅，利用了Java本身语法特点，性能高，避免了内存浪费,不能被反射破坏
    缺点：不优雅
  */

@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="第二次提交&#10;更新工厂模式、单例模式">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/TeamLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/TeamLeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Tom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Tom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/others/JDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/CourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/CourseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/lazy/LazyStaticInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/lazy/LazyStaticInnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/seriable/SeriableSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/seriable/SeriableSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ExectorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ExectorThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ThreadLocalSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ThreadLocalSingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/TeamLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/TeamLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v3/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Tom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Tom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/liskovsubtution/simlpe/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/liskovsubtution/simlpe/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/DiscountProductA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/DiscountProductA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,33 +58,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
   <component name="ProjectId" id="1Zt4cKr69yQZoXmK5cxBjvGwuRt" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="D:/git/DATA/spring-boot-api-project-seed" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\factory\simpleFactory\simple" />
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\factory\simpleFactory" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.avic.qf.pattern.singleton.lazy" />
       <recent name="com.avic.qf.design.principle.liskovsubtution.improve" />
       <recent name="com.avic.qf.design.principle.simpleResponsbility.simple" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\singleton\test" />
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\singleton" />
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\factory\pool\exam" />
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\factory\pool" />
-      <recent name="E:\avic_train\src\main\java\com\avic\qf\pattern\factory\abstractfactory\abstractmethod" />
+      <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v4" />
+      <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,13 +88,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test (1)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.design.principle.dependencyInversion.v2.Test" />
+  <component name="RunManager" selected="Application.ThreadLocalSingletonTest">
+    <configuration name="EnumSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.EnumSingletonTest" />
       <module name="Avic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.design.principle.dependencyInversion.v2.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.design.principle.dependencyInversion.v4.Test" />
+    <configuration name="LazySimpleSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.LazySimpleSingletonTest" />
       <module name="Avic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.design.principle.dependencyInversion.v4.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.design.principle.demeter.Test" />
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.ReflectTest" />
       <module name="Avic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.design.principle.demeter.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.design.principle.compositereuse.test" />
+    <configuration name="SeriableSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.SeriableSingletonTest" />
       <module name="Avic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.design.principle.compositereuse.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.design.principle.liskovsubtution.simlpe.test" />
+    <configuration name="ThreadLocalSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.ThreadLocalSingletonTest" />
       <module name="Avic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.design.principle.liskovsubtution.improve.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ThreadLocalSingletonTest" />
+        <item itemvalue="Application.SeriableSingletonTest" />
+        <item itemvalue="Application.EnumSingletonTest" />
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.LazySimpleSingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,17 +179,13 @@
       <workItem from="1586141600580" duration="1009000" />
       <workItem from="1586155239591" duration="5028000" />
       <workItem from="1586314557913" duration="1426000" />
-      <workItem from="1586424635184" duration="541000" />
-      <workItem from="1586959550124" duration="3581000" />
+      <workItem from="1586424635184" duration="1143000" />
+      <workItem from="1586481498644" duration="4458000" />
+      <workItem from="1586576132804" duration="2997000" />
+      <workItem from="1586941104247" duration="652000" />
+      <workItem from="1586941779033" duration="818000" />
+      <workItem from="1586998492461" duration="15290000" />
     </task>
-    <task id="LOCAL-00001" summary="第二次提交&#10;更新工厂模式、单例模式">
-      <created>1586962977570</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1586962977570</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,14 +196,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="第二次提交&#10;更新工厂模式、单例模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交&#10;更新工厂模式、单例模式" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/LazySimpleSingletonTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ExectorThread.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/lazy/LazySimpleSingletion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
   </component>
 </project>

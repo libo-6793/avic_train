@@ -2,21 +2,23 @@ package com.avic.qf.pattern.factory.simplefactory.simple;
 
 
 import com.avic.qf.pattern.factory.simplefactory.ICourse;
+import com.avic.qf.pattern.factory.simplefactory.JavaCourse;
+import com.avic.qf.pattern.factory.simplefactory.PythonCourse;
 
 /**
  * Created by LiBo.
  */
 public class CourseFactory {
 
-//    public ICourse create(String name){
-//        if("java".equals(name)){
-//            return new JavaCourse();
-//        }else if("python".equals(name)){
-//            return new PythonCourse();
-//        }else {
-//            return null;
-//        }
-//    }
+    public ICourse create(String name){
+        if("java".equals(name)){
+            return new JavaCourse();
+        }else if("python".equals(name)){
+            return new PythonCourse();
+        }else {
+            return null;
+        }
+    }
 
 //    public ICourse create(String className){
 //        try {
@@ -30,15 +32,15 @@ public class CourseFactory {
 //        return null;
 //    }
 
-    public ICourse create(Class<? extends ICourse> clazz){
-        try {
-            if (null != clazz) {
-                return clazz.newInstance();
-            }
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-        return null;
-    }
+//    public ICourse create(Class<? extends ICourse> clazz){
+//        try {
+//            if (null != clazz) {
+//                return clazz.newInstance();
+//            }
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
+//        return null;
+//    }
 
 }
