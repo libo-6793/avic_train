@@ -3,7 +3,7 @@ package com.avic.qf.pattern.builder.simple;
 import lombok.Data;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 @Data
 public class Course {

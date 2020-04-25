@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * QueryRule,主要功能用于构造查询条件
  * 
- * @author Tom
+ * @author LiBo
  */
 public final class QueryRule implements Serializable
 {

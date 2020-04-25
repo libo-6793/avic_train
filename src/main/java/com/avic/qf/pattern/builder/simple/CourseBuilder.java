@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.builder.simple;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class CourseBuilder{
 

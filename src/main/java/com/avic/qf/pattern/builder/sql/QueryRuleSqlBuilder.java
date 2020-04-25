@@ -15,7 +15,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * 根据QueryRule自动构建sql语句
- * @author Tom
+ * @author LiBo
  *
  */
 public class QueryRuleSqlBuilder {

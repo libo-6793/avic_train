@@ -3,7 +3,7 @@ package com.avic.qf.pattern.builder.sql;
 
 /**
  * sql排序组件
- * @author Tom
+ * @author LiBo
  */
 public class Order {
 	private boolean ascending; //升序还是降序
