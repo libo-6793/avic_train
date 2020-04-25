@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/ExamPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" afterDir="false" />
@@ -12,21 +34,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/others/JDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/CourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/CourseFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/factory/simplefactory/simple/SimpleFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/lazy/LazyStaticInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/lazy/LazyStaticInnerClassSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/seriable/SeriableSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/seriable/SeriableSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ExectorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ExectorThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ThreadLocalSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/singleton/test/ThreadLocalSingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/TeamLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/demeter/TeamLeader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v3/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Tom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/dependencyInversion/v4/Tom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/liskovsubtution/simlpe/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/liskovsubtution/simlpe/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/DiscountProductA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/DiscountProductA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +70,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/git/DATA/spring-boot-api-project-seed" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -72,6 +79,8 @@
       <recent name="com.avic.qf.design.principle.simpleResponsbility.simple" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\pattern\builder" />
+      <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\pattern\prototype" />
       <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v4" />
       <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v3" />
     </key>
@@ -184,8 +193,20 @@
       <workItem from="1586576132804" duration="2997000" />
       <workItem from="1586941104247" duration="652000" />
       <workItem from="1586941779033" duration="818000" />
-      <workItem from="1586998492461" duration="15290000" />
+      <workItem from="1586998492461" duration="16573000" />
+      <workItem from="1587792566814" duration="1846000" />
+      <workItem from="1587810931930" duration="669000" />
+      <workItem from="1587811664165" duration="212000" />
+      <workItem from="1587811893584" duration="2080000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次提交&#10;工厂模式+单例模式">
+      <created>1587018428375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587018428376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +224,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次提交&#10;工厂模式+单例模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交&#10;工厂模式+单例模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

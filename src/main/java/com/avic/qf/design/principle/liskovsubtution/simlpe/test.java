@@ -12,15 +12,15 @@ public class test {
         }
         System.out.println("resize end , width:"+rectangle.getWidth()+",height="+rectangle.getHeight());
     }
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
     Rectangle rectangle = new Rectangle();
         rectangle.setHeight(10);
         rectangle.setWidth(20);
         reSize(rectangle);
-    }*/
-    public static void main(String[] args) {
+    }
+   /* public static void main(String[] args) {
         Square square = new Square();
         square.setLength(20);
         reSize(square);
-    }
+    }*/
 }

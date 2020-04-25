@@ -5,7 +5,11 @@ public class DiscountProductA extends ProductA{
         super(id, name, price);
     }
 
-    public Double getDiscountPrice(){
+    public Double getOriginPrice(){
+        return super.getPrice();
+    }
+
+    public Double getPrice(){
         return super.getPrice()*0.6;
     }
 }
