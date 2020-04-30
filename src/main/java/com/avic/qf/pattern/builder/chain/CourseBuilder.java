@@ -3,7 +3,7 @@ package com.avic.qf.pattern.builder.chain;
 import lombok.Data;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class CourseBuilder {
     private Course course = new Course();

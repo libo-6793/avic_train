@@ -3,7 +3,7 @@ package com.avic.qf.pattern.prototype.demo;
 import java.lang.reflect.Field;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class BeanUtils {
 

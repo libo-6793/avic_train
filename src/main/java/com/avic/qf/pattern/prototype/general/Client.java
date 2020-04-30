@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.prototype.general;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class Client {
 

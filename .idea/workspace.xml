@@ -2,44 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/ExamPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/TeamLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/demeter/TeamLeader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Tom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/dependencyInversion/v4/Tom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/liskovsubtution/simlpe/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/DiscountProductA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,8 +59,10 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\admin\ideam2\repository" />
-        <option name="userSettingsFile" value="C:\Users\admin\ideam2\settings.xml" />
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\apache-maven-3.6.3\maven_jar" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -66,6 +72,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zt4cKr69yQZoXmK5cxBjvGwuRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -84,18 +95,6 @@
       <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v4" />
       <recent name="C:\Users\admin\Documents\WeChat Files\libo-9763\FileStorage\File\2020-04\Avic\src\main\java\com\avic\qf\design\principle\dependencyInversion\v3" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ThreadLocalSingletonTest">
     <configuration name="EnumSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -198,6 +197,8 @@
       <workItem from="1587810931930" duration="669000" />
       <workItem from="1587811664165" duration="212000" />
       <workItem from="1587811893584" duration="2080000" />
+      <workItem from="1588213337699" duration="1948000" />
+      <workItem from="1588215479060" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交&#10;工厂模式+单例模式">
       <created>1587018428375</created>
@@ -228,6 +229,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交&#10;工厂模式+单例模式" />
     <option name="LAST_COMMIT_MESSAGE" value="第二次提交&#10;工厂模式+单例模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588214805756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1588214805756" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588215450133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588215450133" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1588215456933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588215456933" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588215499961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588215499961" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

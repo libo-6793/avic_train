@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.builder.simple;
 
 /**
- * Created by geely
+ * Created by LiBo
  */
 public class Test {
     public static void main(String[] args) {
