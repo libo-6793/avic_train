@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.decorator.battercake.v1;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class BattercakeWithEggAndSauage extends BattercakeWithEgg {
 

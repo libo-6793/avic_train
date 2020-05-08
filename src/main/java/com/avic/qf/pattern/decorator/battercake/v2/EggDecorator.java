@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.decorator.battercake.v2;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class EggDecorator extends BattercakeDecorator{
 
