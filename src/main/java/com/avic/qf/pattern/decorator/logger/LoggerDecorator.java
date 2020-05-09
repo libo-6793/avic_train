@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.Marker;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class LoggerDecorator implements Logger {
 

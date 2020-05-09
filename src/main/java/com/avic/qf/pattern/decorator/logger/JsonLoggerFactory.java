@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class JsonLoggerFactory {
 

@@ -1,7 +1,7 @@
 package com.avic.qf.pattern.facade.points;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class QualifyService {
 

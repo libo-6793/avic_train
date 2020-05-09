@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import java.util.Arrays;
 
 /**
- * Created by Tom.
+ * Created by LiBo.
  */
 public class JsonLogger extends LoggerDecorator {
     public JsonLogger(Logger logger) {
