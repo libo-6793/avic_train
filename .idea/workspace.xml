@@ -3,26 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/CourseBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/chain/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/CourseBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/simple/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/QueryRuleSqlBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/builder/sql/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/deep/ConcretePrototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/BeanUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/demo/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/ConcretePrototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/general/IPrototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/shallow/ConcretePrototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/prototype/singleton/ConcretePrototype.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +166,10 @@
       <workItem from="1587792566814" duration="1846000" />
       <workItem from="1587810931930" duration="669000" />
       <workItem from="1587811664165" duration="212000" />
-      <workItem from="1587811893584" duration="2798000" />
+      <workItem from="1587811893584" duration="3417000" />
+      <workItem from="1588906931166" duration="616000" />
+      <workItem from="1588924437670" duration="131000" />
+      <workItem from="1588987670706" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交&#10;工厂模式+单例模式">
       <created>1587018428375</created>
@@ -202,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587816866789</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第三次提交&#10;原型模式+建造者模式">
+      <created>1587817291069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587817291069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
