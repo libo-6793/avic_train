@@ -3,7 +3,7 @@ package com.avic.qf.pattern.builder.simple;
 /**
  * Created by LiBo.
  */
-public class CourseBuilder{
+public class CourseBuilder implements IBuilder{
 
     private Course course = new Course();
 

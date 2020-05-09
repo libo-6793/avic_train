@@ -1,16 +1,14 @@
 package com.avic.qf.pattern.builder.sql;
 
+import org.apache.commons.lang.ArrayUtils;
+import org.apache.commons.lang.StringUtils;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.apache.commons.lang.ArrayUtils;
-
-import com.gupaoedu.vip.pattern.builder.sql.QueryRule.Rule;
-import org.apache.commons.lang.StringUtils;
 
 
 /**
@@ -365,7 +363,7 @@ public class QueryRuleSqlBuilder {
 	 * 处理 order by
 	 * @param rule 查询规则
 	 */
-	private void processOrder(Rule rule) {
+	private void processOrder(QueryRule.Rule rule) {
 		switch (rule.getType()) {
 		case QueryRule.ASC_ORDER:
 			// propertyName非空

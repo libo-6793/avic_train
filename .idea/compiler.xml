@@ -7,8 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="avic_train" />
         <module name="Avic" />
+        <module name="avic_train" />
+        <module name="avic_train3" />
       </profile>
     </annotationProcessing>
   </component>
