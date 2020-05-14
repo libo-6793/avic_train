@@ -1,6 +1,7 @@
 package com.avic.qf.pattern.proxy.dynamicproxy.cglibproxy;
 
-import net.sf.cglib.core.DebuggingClassWriter;
+
+import org.springframework.cglib.core.DebuggingClassWriter;
 
 /**
  * Created by LiBo on 2020/05/14.
@@ -25,7 +26,7 @@ public class CglibTest {
 
             System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY,"E://cglib_proxy_classes");
 
-            Customer obj = (Customer) new CGlibMeipo().getInstance(Customer.class);
+            ZhangSan obj = (ZhangSan) new CGlibMeipo().getInstance(ZhangSan.class);
             System.out.println(obj);
             obj.findLove();
         } catch (Exception e) {
