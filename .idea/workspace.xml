@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="">
+    <list default="true" id="7b4f5a34-a47f-425d-9dfd-c5dcd4a277ba" name="Default Changelist" comment="第三次提交&#10;原型模式+建造者模式">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/builderchain/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/builderchain/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/builderchain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/builderchain/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/AuthHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/AuthHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimiaze/ValidateHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/chain/auth/optimize/ValidateHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/strategy/pay/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/strategy/pay/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/strategy/promotion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avic/qf/pattern/strategy/promotion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/avic/qf/design/principle/openclose/v1/OpenCloseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadLocalSingletonTest">
-    <configuration name="EnumSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.EnumSingletonTest" />
-      <module name="Avic" />
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.strategy.pay.Test" />
+      <module name="avic_train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.strategy.pay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LazySimpleSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.LazySimpleSingletonTest" />
-      <module name="Avic" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.chain.general.Test" />
+      <module name="avic_train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.chain.general.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.ReflectTest" />
-      <module name="Avic" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.chain.auth.builderchain.Test" />
+      <module name="avic_train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.chain.auth.builderchain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriableSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.singleton.test.SeriableSingletonTest" />
-      <module name="Avic" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.strategy.promotion.Test" />
+      <module name="avic_train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avic.qf.pattern.singleton.test.*" />
+          <option name="PATTERN" value="com.avic.qf.pattern.strategy.promotion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avic.qf.pattern.chain.auth.optimize.Test" />
+      <module name="avic_train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avic.qf.pattern.chain.auth.optimize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadLocalSingletonTest" />
-        <item itemvalue="Application.SeriableSingletonTest" />
-        <item itemvalue="Application.EnumSingletonTest" />
-        <item itemvalue="Application.ReflectTest" />
-        <item itemvalue="Application.LazySimpleSingletonTest" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

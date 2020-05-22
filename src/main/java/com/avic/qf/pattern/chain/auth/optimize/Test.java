@@ -1,4 +1,4 @@
-package com.avic.qf.pattern.chain.auth.optimiaze;
+package com.avic.qf.pattern.chain.auth.optimize;
 
 /**
  * Created by LiBo.
@@ -6,6 +6,6 @@ package com.avic.qf.pattern.chain.auth.optimiaze;
 public class Test {
     public static void main(String[] args) {
         MemberService memberService = new MemberService();
-        memberService.login("tom","666");
+        memberService.login("LiBo","666");
     }
 }

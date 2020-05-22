@@ -12,9 +12,9 @@ public class MemberService {
 
         Handler.Builder builder = new Handler.Builder();
 
-        builder.addHandler(new ValidateHandler());
-//                .addHandler(new LoginHandler())
-//                .addHandler(new AuthHandler());
+        builder.addHandler(new ValidateHandler())
+                .addHandler(new LoginHandler())
+                .addHandler(new AuthHandler());
 
         builder.build().doHandler(new Member(loginName,loginPass));
 

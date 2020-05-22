@@ -1,8 +1,7 @@
-package com.avic.qf.pattern.chain.auth.optimiaze;
+package com.avic.qf.pattern.chain.auth.optimize;
 
 
 import com.avic.qf.pattern.chain.auth.Member;
-import org.apache.commons.lang.StringUtils;
 
 /**
  * Created by LiBo.
